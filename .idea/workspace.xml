@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53615c4f-2ba3-4cf0-8c14-e7d3d4acfd7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="quiz_demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../工具/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\学习资料\工具\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YK2z11jCXGAGr30drKPokDzQzz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xzq" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习资料\Project\Project-school\review\src\com\xzq" />
+      <recent name="E:\学习资料\Project\Project-school\quiz_demo\lib" />
+      <recent name="E:\学习资料\Project\Project-school\quiz_demo\src\com\xzq\collectionsafe" />
+      <recent name="E:\学习资料\Project\Project-school\quiz_demo\src\com\xzq\thread" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xzq.algorithm.search" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xzq.algorithm.剑指offer面试题" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KthNodeFromEnd">
+    <configuration name="EntryNodeInListLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.面试题23_链表中环的入口点.EntryNodeInListLoop" />
+      <module name="review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzq.剑指offer.面试题23_链表中环的入口点.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthNodeFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.KthNodeFromEnd" />
+      <module name="review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzq.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode.tree._617.MergeTrees" />
+      <module name="review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzq.leetcode.tree._617.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.ReorderArray" />
+      <module name="review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzq.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode.LCP_06.TakeCoins" />
+      <module name="review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzq.leetcode.LCP_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthNodeFromEnd" />
+        <item itemvalue="Application.EntryNodeInListLoop" />
+        <item itemvalue="Application.TakeCoins" />
+        <item itemvalue="Application.MergeTrees" />
+        <item itemvalue="Application.ReorderArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53615c4f-2ba3-4cf0-8c14-e7d3d4acfd7c" name="Default Changelist" comment="" />
+      <created>1582677223654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582677223654</updated>
+      <workItem from="1582677227810" duration="11251000" />
+      <workItem from="1582719551068" duration="11000" />
+      <workItem from="1582849598877" duration="24091000" />
+      <workItem from="1582901777016" duration="1431000" />
+      <workItem from="1582937532865" duration="6247000" />
+      <workItem from="1583026040301" duration="3175000" />
+      <workItem from="1584322034124" duration="6490000" />
+      <workItem from="1584502452425" duration="1805000" />
+      <workItem from="1584662559934" duration="84000" />
+      <workItem from="1584967729466" duration="2656000" />
+      <workItem from="1584970821521" duration="804000" />
+      <workItem from="1584971815915" duration="2338000" />
+      <workItem from="1585009051273" duration="13890000" />
+      <workItem from="1585100112855" duration="1038000" />
+      <workItem from="1585105179683" duration="2383000" />
+      <workItem from="1585186149761" duration="651000" />
+      <workItem from="1585269999171" duration="4621000" />
+      <workItem from="1585319795312" duration="4167000" />
+      <workItem from="1585358513369" duration="5966000" />
+      <workItem from="1585458768200" duration="6462000" />
+      <workItem from="1585614891409" duration="3535000" />
+      <workItem from="1585659022509" duration="1440000" />
+      <workItem from="1585718371124" duration="38000" />
+      <workItem from="1585718431465" duration="827000" />
+      <workItem from="1585740957368" duration="120000" />
+      <workItem from="1585747709199" duration="73000" />
+      <workItem from="1585747808434" duration="2299000" />
+      <workItem from="1585786496371" duration="120000" />
+      <workItem from="1585832520275" duration="5593000" />
+      <workItem from="1585886647812" duration="401000" />
+      <workItem from="1586054067735" duration="8023000" />
+      <workItem from="1586088601019" duration="217000" />
+      <workItem from="1586217169943" duration="4737000" />
+      <workItem from="1586310415484" duration="85000" />
+      <workItem from="1586312514694" duration="5520000" />
+      <workItem from="1586344061216" duration="2724000" />
+      <workItem from="1586351614353" duration="556000" />
+      <workItem from="1586389875149" duration="2500000" />
+      <workItem from="1586441370250" duration="2413000" />
+      <workItem from="1586478025221" duration="3567000" />
+      <workItem from="1586596869813" duration="1586000" />
+      <workItem from="1586606246374" duration="639000" />
+      <workItem from="1586676813954" duration="1198000" />
+      <workItem from="1586744032337" duration="932000" />
+      <workItem from="1586874216901" duration="9000" />
+      <workItem from="1586922149461" duration="1553000" />
+      <workItem from="1586994929156" duration="7540000" />
+      <workItem from="1587086172394" duration="270000" />
+      <workItem from="1587518530045" duration="615000" />
+      <workItem from="1587644483064" duration="303000" />
+      <workItem from="1587688408615" duration="1283000" />
+      <workItem from="1587790115992" duration="20335000" />
+      <workItem from="1587861045452" duration="16196000" />
+      <workItem from="1587886183271" duration="12839000" />
+      <workItem from="1587949778034" duration="9754000" />
+      <workItem from="1587971705165" duration="6490000" />
+      <workItem from="1587978403958" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585016323975">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1585016323975" />
+    <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1587891181454">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587891181454" />
+    <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1586999320438" />
+    <state x="195" y="238" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584322042261">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="195" y="238" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1584322042261" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587891085519">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587891085519" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1585033960640" />
+    <state x="421" y="88" key="FileChooserDialogImpl" timestamp="1587885668937">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587885668937" />
+    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587525717889" />
+    <state width="1237" height="198" key="GridCell.Tab.0.bottom" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
+    <state width="1237" height="198" key="GridCell.Tab.0.center" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
+    <state width="1237" height="198" key="GridCell.Tab.0.left" timestamp="1587978262313">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262313" />
+    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
+    <state width="1237" height="198" key="GridCell.Tab.0.right" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
+    <state width="1237" height="198" key="GridCell.Tab.1.bottom" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
+    <state width="1237" height="198" key="GridCell.Tab.1.center" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
+    <state width="1237" height="198" key="GridCell.Tab.1.left" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
+    <state width="1237" height="198" key="GridCell.Tab.1.right" timestamp="1587978262319">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
+    <state x="573" y="78" key="NewModule_or_Project.wizard" timestamp="1585719288684">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="573" y="78" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1585719288684" />
+    <state x="166" y="0" key="SettingsEditor" timestamp="1587978261048">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="166" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978261048" />
+    <state x="166" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1587000490147" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1586344757701">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1280.689@0.0.1280.689" timestamp="1586344757701" />
+    <state x="119" y="135" width="766" height="418" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582678515753">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="119" y="135" width="766" height="418" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1582678515753" />
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587971735147">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587971735147" />
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587086232954" />
+    <state x="28" y="41" key="new project wizard" timestamp="1586778192389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="28" y="41" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586778192389" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1586055286164">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1586055286164" />
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1587978089843">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978089843" />
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586996807748" />
+  </component>
+</project>
