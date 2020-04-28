@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53615c4f-2ba3-4cf0-8c14-e7d3d4acfd7c" name="Default Changelist" comment="" />
+    <list default="true" id="53615c4f-2ba3-4cf0-8c14-e7d3d4acfd7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/redis/RedisDelayingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_24_链表反转/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_25_合并两个排序的链表/MergeSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_26_树的子结构/SubstructureInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_27_二叉树的镜像/MirrorOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_30_包含min的最小栈/StackWithMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_31_栈的压入弹出序列/StackPushPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_32_从上到下打印二叉树/PrintFromTopToBoottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_37_序列化二叉树/SerializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/struct/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/struct/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/utils/DoubleUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/utils/TreeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/ConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_07_重构二叉树/ConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/DeleteDuplicatedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/DeleteDuplicatedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_10_斐波那契数列/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/FindInPartiallySortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_二维数组中的查找/FindInPartiallySortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/KthNodeFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_20_链表中的倒数第k个节点/KthNodeFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/MinNumberInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_11_旋转数组中的最小数字/MinNumberInRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_15_二进制中1的个数/NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/PrintListInReversedOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_06_从尾到头打印链表的值/PrintListInReversedOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/QueueWithTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_09_两个栈实现队列/QueueWithTwoStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/ReorderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_21_调整数组顺序使奇数位于偶数之前/ReorderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/ReplaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_05_替换空格/ReplaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/StackWithTwoQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_09_两个栈实现队列/StackWithTwoQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/面试题23_链表中环的入口点/EntryNodeInListLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_23_链表中环的入口点/EntryNodeInListLoop.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +60,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,6 +78,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YK2z11jCXGAGr30drKPokDzQzz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,7 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xzq" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pinyougou-parent" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,13 +116,13 @@
       <recent name="com.xzq.algorithm.剑指offer面试题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KthNodeFromEnd">
-    <configuration name="EntryNodeInListLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.面试题23_链表中环的入口点.EntryNodeInListLoop" />
+  <component name="RunManager" selected="Application.SerializeBinaryTree">
+    <configuration name="MirrorOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._27_二叉树的镜像.MirrorOfBinaryTree" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.剑指offer.面试题23_链表中环的入口点.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._27_二叉树的镜像.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthNodeFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.KthNodeFromEnd" />
+    <configuration name="PrintFromTopToBoottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._32_从上到下打印二叉树.PrintFromTopToBoottom" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.剑指offer.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._32_从上到下打印二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode.tree._617.MergeTrees" />
+    <configuration name="SerializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._37_序列化二叉树.SerializeBinaryTree" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode.tree._617.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._37_序列化二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer.ReorderArray" />
+    <configuration name="StackPushPopOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._31_栈的压入弹出序列.StackPushPopOrder" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.剑指offer.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._31_栈的压入弹出序列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode.LCP_06.TakeCoins" />
+    <configuration name="StackWithMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._30_包含min的最小栈.StackWithMin" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode.LCP_06.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._30_包含min的最小栈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KthNodeFromEnd" />
-        <item itemvalue="Application.EntryNodeInListLoop" />
-        <item itemvalue="Application.TakeCoins" />
-        <item itemvalue="Application.MergeTrees" />
-        <item itemvalue="Application.ReorderArray" />
+        <item itemvalue="Application.SerializeBinaryTree" />
+        <item itemvalue="Application.PrintFromTopToBoottom" />
+        <item itemvalue="Application.StackPushPopOrder" />
+        <item itemvalue="Application.StackWithMin" />
+        <item itemvalue="Application.MirrorOfBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +273,10 @@
       <workItem from="1587886183271" duration="12839000" />
       <workItem from="1587949778034" duration="9754000" />
       <workItem from="1587971705165" duration="6490000" />
-      <workItem from="1587978403958" duration="322000" />
+      <workItem from="1587978403958" duration="10943000" />
+      <workItem from="1588033552860" duration="471000" />
+      <workItem from="1588034266849" duration="3680000" />
+      <workItem from="1588038594795" duration="17485000" />
     </task>
     <servers />
   </component>
@@ -252,10 +288,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1585016323975" />
-    <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1587891181454">
+    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1588075431822">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587891181454" />
+    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075431822" />
     <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1586999320438" />
     <state x="195" y="238" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584322042261">
       <screen x="0" y="0" width="1280" height="689" />
@@ -266,59 +302,63 @@
     </state>
     <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587891085519" />
     <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1585033960640" />
-    <state x="421" y="88" key="FileChooserDialogImpl" timestamp="1587885668937">
+    <state x="371" y="92" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588035844682">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587885668937" />
+    <state x="371" y="92" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588035844682" />
+    <state x="421" y="88" key="FileChooserDialogImpl" timestamp="1588034534598">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588034534598" />
     <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587525717889" />
-    <state width="1237" height="198" key="GridCell.Tab.0.bottom" timestamp="1587978262319">
+    <state width="1237" height="152" key="GridCell.Tab.0.bottom" timestamp="1588075039446">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="152" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075039446" />
     <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
-    <state width="1237" height="198" key="GridCell.Tab.0.center" timestamp="1587978262319">
+    <state width="1237" height="152" key="GridCell.Tab.0.center" timestamp="1588075039446">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="152" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075039446" />
     <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
-    <state width="1237" height="198" key="GridCell.Tab.0.left" timestamp="1587978262313">
+    <state width="1237" height="152" key="GridCell.Tab.0.left" timestamp="1588075039446">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262313" />
+    <state width="1237" height="152" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075039446" />
     <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
-    <state width="1237" height="198" key="GridCell.Tab.0.right" timestamp="1587978262319">
+    <state width="1237" height="152" key="GridCell.Tab.0.right" timestamp="1588075039446">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="152" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075039446" />
     <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
-    <state width="1237" height="198" key="GridCell.Tab.1.bottom" timestamp="1587978262319">
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom" timestamp="1588072442911">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588072442911" />
     <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
-    <state width="1237" height="198" key="GridCell.Tab.1.center" timestamp="1587978262319">
+    <state width="1237" height="261" key="GridCell.Tab.1.center" timestamp="1588072442911">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="261" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588072442911" />
     <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
-    <state width="1237" height="198" key="GridCell.Tab.1.left" timestamp="1587978262319">
+    <state width="1237" height="261" key="GridCell.Tab.1.left" timestamp="1588072442911">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="261" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588072442911" />
     <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
-    <state width="1237" height="198" key="GridCell.Tab.1.right" timestamp="1587978262319">
+    <state width="1237" height="261" key="GridCell.Tab.1.right" timestamp="1588072442911">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="198" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978262319" />
+    <state width="1237" height="261" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588072442911" />
     <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
     <state x="573" y="78" key="NewModule_or_Project.wizard" timestamp="1585719288684">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="573" y="78" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1585719288684" />
-    <state x="166" y="0" key="SettingsEditor" timestamp="1587978261048">
+    <state x="166" y="0" key="SettingsEditor" timestamp="1588035555975">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="166" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978261048" />
+    <state x="166" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588035555975" />
     <state x="166" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1587000490147" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1586344757701">
       <screen x="0" y="0" width="1280" height="689" />
@@ -328,23 +368,24 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="119" y="135" width="766" height="418" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1582678515753" />
-    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587971735147">
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1588038598642">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587971735147" />
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588038598642" />
     <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587086232954" />
     <state x="28" y="41" key="new project wizard" timestamp="1586778192389">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="28" y="41" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586778192389" />
-    <state x="297" y="153" key="run.anything.popup" timestamp="1586055286164">
+    <state x="297" y="153" key="run.anything.popup" timestamp="1588054122953">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588054122953" />
     <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1586055286164" />
-    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1587978089843">
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1588053407476">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587978089843" />
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588053407476" />
     <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586996807748" />
   </component>
 </project>

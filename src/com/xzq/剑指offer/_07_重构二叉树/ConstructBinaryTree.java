@@ -1,4 +1,4 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._07_重构二叉树;
 
 import java.util.Arrays;
 
@@ -42,7 +42,7 @@ public class ConstructBinaryTree {
     /*Arrays.copyOfRange*/
     public TreeNode reConstructBinaryTree2(int[] pre, int[] in) {
         //判断数组条件是否符合规范
-        if(pre.length == 0|| pre.length!=in.length){
+        if (pre.length == 0 || pre.length != in.length) {
             return null;
         }
 

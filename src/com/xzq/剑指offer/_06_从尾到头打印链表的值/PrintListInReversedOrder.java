@@ -1,4 +1,4 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._06_从尾到头打印链表的值;
 
 import java.util.Stack;
 

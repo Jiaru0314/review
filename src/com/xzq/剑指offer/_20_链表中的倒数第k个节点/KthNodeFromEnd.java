@@ -1,4 +1,7 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._20_链表中的倒数第k个节点;
+
+
+import com.xzq.剑指offer.struct.ListNode;
 
 import java.util.Stack;
 

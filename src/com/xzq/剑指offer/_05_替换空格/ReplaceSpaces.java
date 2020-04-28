@@ -1,8 +1,8 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._05_替换空格;
 
 /**
  * @ClassName: ReplaceSpaces
- * @description: 字符串中的空格替换
+ * @description: 面试题5：字符串中的空格替换
  * @author: XZQ
  * @create: 2020/4/25 14:56
  * <p>

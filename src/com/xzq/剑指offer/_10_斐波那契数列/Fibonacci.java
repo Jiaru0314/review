@@ -1,8 +1,8 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._10_斐波那契数列;
 
 /**
  * @ClassName: Fibonacci
- * @description: 第九题:斐波那契数列
+ * @description: 第十题:斐波那契数列
  * @author: XZQ
  * @create: 2020/4/26 11:20
  * 40:497

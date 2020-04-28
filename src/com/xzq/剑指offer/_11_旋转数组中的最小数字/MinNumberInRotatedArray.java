@@ -1,8 +1,8 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._11_旋转数组中的最小数字;
 
 /**
  * @ClassName: MinNumberInRotatedArray
- * @description: 第八题：旋转数组中最小的数字
+ * @description: 第十一题：旋转数组中最小的数字
  * @author: XZQ
  * @create: 2020/4/26 10:48
  * <p>

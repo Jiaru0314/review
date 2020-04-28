@@ -1,4 +1,4 @@
-package com.xzq.剑指offer;
+package com.xzq.剑指offer._15_二进制中1的个数;
 
 /**
  * @ClassName: NumberOf1

@@ -1,4 +1,4 @@
-package com.xzq.剑指offer.面试题23_链表中环的入口点;
+package com.xzq.剑指offer._23_链表中环的入口点;
 
 /**
  * @ClassName: EntryNodeInListLoop

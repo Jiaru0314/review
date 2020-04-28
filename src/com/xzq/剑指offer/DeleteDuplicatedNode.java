@@ -6,7 +6,7 @@ package com.xzq.剑指offer;
  * @author: XZQ
  * @create: 2020/4/26 16:50
  * 题目
- * 　　在一个排序的链表中，如何删除重复的结点？例如，在图3.4（a）中重复结点被删除之后，链表如图3.4（b）所示。
+ * 　　在一个排序的链表中，如何删除重复的结点？
  **/
 public class DeleteDuplicatedNode {
 
