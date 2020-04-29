@@ -8,7 +8,7 @@ package com.xzq.剑指offer._15_二进制中1的个数;
  **/
 public class NumberOf1 {
     public static void main(String[] args) {
-        System.out.println(7>>1);
+        System.out.println(new NumberOf1().numberOf1(6));
     }
 
     public int numberOf1(int n) {

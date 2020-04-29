@@ -1,4 +1,4 @@
-package com.xzq.剑指offer._二维数组中的查找;
+package com.xzq.剑指offer._04_二维数组中的查找;
 
 /**
  * @ClassName: FindInPartiallySortedMatrix

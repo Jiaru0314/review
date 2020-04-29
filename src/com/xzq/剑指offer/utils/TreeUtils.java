@@ -14,7 +14,7 @@ public class TreeUtils {
     public static void preOrderTraverse(BinaryTreeNode node) {
         if (node == null)
             return;
-        System.out.print(node);
+        System.out.print(node.value + " ");
         preOrderTraverse(node.left);
         preOrderTraverse(node.right);
     }
