@@ -19,7 +19,7 @@ public class ReplaceSpaces {
         System.out.println(rs.replaceSpace3(new StringBuilder("a b d bd c ")));
     }
 
-
+    /*计算出替换后所需的长度，从后往前遍历*/
     public String replaceSpace(StringBuilder str) {
         //如果str为null
         if (str == null) {

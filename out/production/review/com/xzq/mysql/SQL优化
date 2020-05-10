@@ -1,0 +1,51 @@
+1、为什么需要索引
+    性能下降SQL慢、执行时间长、等待时间长
+
+2、索引是什么
+    帮助MySQL高速获取数据的一种数据结构
+    可以理解为 排好序的快速查找的B树或B+树数据结构
+    本质：数据结构
+
+3、在表中建立索引,优先考虑where、group by、order by使用到的字段
+    优化方式：
+    哪些字段需要建立索引
+    1、主键自动建立唯一索引
+    2、频繁作为查找条件的字段
+    3、查询中与其他表关联的字段、外键关系建立索引
+    4、单键/组合索引的选择问题：组合索引效率更高
+    5、查询中排序的字段
+    6、查询中统计或者分组的字段
+    哪些字段不需要建立索引
+    1、频繁增删改的字段
+    2、where条件中用不到的字段
+
+4、尽量避免使用select * 返回无用的字段会降低查询效率
+    优化方式：使用具体的字段代替 *
+
+5、尽量避免使用 in或者not in 会导致数据库引擎放弃索引查询而全表查询
+    优化：如果是连续数值，可以使用between代替
+          如果是子查询，可以使用exists代替
+
+6、尽量避免使用 or 会导致数据库引擎放弃索引查询而全表查询
+    SELECT * FROM t WHERE id = 1 OR id = 3
+    优化方式：可以用union代替or。如下：
+    SELECT * FROM t WHERE id = 1
+    UNION
+    SELECT * FROM t WHERE id = 3
+
+7、尽量避免在字段开头模糊查询，会导致数据库引擎放弃索引进行全表扫描。如下：
+    SELECT * FROM t WHERE username LIKE '%li%'
+    优化方式：尽量在字段后面使用模糊查询。如下：
+    SELECT * FROM t WHERE username LIKE 'li%'
+
+8、尽量避免进行null值的判断，会导致数据库引擎放弃索引进行全表扫描。如下：
+    SELECT * FROM t WHERE score IS NULL
+    优化方式：可以给字段添加默认值0，对0值进行判断。如下：
+    SELECT * FROM t WHERE score = 0
+
+9、尽量避免在where条件中等号的左侧进行表达式、函数操作，会导致数据库引擎放弃索引进行全表扫描。如下：
+  SELECT * FROM t2 WHERE score/10 = 9
+  SELECT * FROM t2 WHERE SUBSTR(username,1,2) = 'li'
+  优化方式：可以将表达式、函数操作移动到等号右侧。如下：
+  SELECT * FROM t2 WHERE score = 10*9
+  SELECT * FROM t2 WHERE username LIKE 'li%'

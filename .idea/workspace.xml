@@ -2,16 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53615c4f-2ba3-4cf0-8c14-e7d3d4acfd7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_1021删除最外层的括号/RemoveOuterParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_1095_山脉数组中查找目标值/FindInMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_1290二进制链表转整数/GetDecimalValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_237_删除链表中的节点/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_338_比特位计数/CountBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/面试题/_0402最小高度树/MinHighTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/string/MethodToErgodic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/_15_二进制中1的个数/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_15_二进制中1的个数/NumberOf1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/_二维数组中的查找/FindInPartiallySortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_04_二维数组中的查找/FindInPartiallySortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/utils/TreeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/utils/TreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mybatis-3.2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/collection/list/NullPointerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/collection/set/TestLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/HappyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_1013_将数组分为和相等的三个部分/PartitionArrayIntoThreeParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_111_二叉树的最小深度/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_125_验证回文串/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_160_相交链表/IntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_234回文链表/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_344_反转字符串/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_441_排列硬币/ArrangingCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_507_完美数/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_10_01合并排序的数组/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_16_05阶层尾数/TrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_17_01/不用加号的加法/AddWithoutSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_17_04消失的数字/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_17_10主要元素/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/mysql/SQL优化" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/test/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_03_数组中重复的数字/RepeatNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_53_II_数组中缺失的数字/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_53_在排序数组中找数字/FindNumInSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_54_二叉搜索树的第k大节点/TheKthNodeInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_56_数组中数字出现的次数/FindNumAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_56_数组中数字出现的次数/FindNumAppearOnceOrThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_57_和为s的数字/SumIsS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_58_翻转字符串/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_61_扑克牌中的顺子/SortInPuke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_62_圆圈中剩下的数字/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_63_股票的最大利润/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/utils/ListNodeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/collectionsafe/ConcurrentModificationExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/collectionsafe/ConcurrentModificationExceptionDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/collectionsafe/ListNotSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/collectionsafe/MapNotSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/collectionsafe/SetNotSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/leetcode/_1095_山脉数组中查找目标值/FindInMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/leetcode/_1095_山脉数组中查找目标值/FindInMountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/leetcode/_338_比特位计数/CountBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/leetcode/_338_比特位计数/CountBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/thread/CallableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/thread/CallableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/thread/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/thread/CyclicBarrierDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/thread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/thread/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/thread/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/_24_链表反转/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/_24_链表反转/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/_24_链表反转/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/_24_链表反转/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/struct/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/review/com/xzq/剑指offer/struct/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/algorithm/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/algorithm/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/collectionsafe/ConcurrentModificationExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/collection/safe/ConcurrentModificationExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/collectionsafe/ConcurrentModificationExceptionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/collection/safe/ConcurrentModificationExceptionDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/collectionsafe/ListNotSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/collection/safe/ListNotSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/collectionsafe/MapNotSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/collection/safe/MapNotSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/collectionsafe/SetNotSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/collection/safe/SetNotSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/designpattern/proxy/staticproxy/ITeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/designpattern/proxy/staticproxy/ITeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/designpattern/proxy/staticproxy/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/designpattern/proxy/staticproxy/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/leetcode/_1095_山脉数组中查找目标值/FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/leetcode/_1095_山脉数组中查找目标值/FindInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/thread/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/thread/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/thread/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/thread/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/_05_替换空格/ReplaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_05_替换空格/ReplaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/_24_链表反转/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/_24_链表反转/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/剑指offer/struct/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/剑指offer/struct/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +93,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,24 +123,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pinyougou-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\学习资料\Project\Project-school\review\src\com\xzq\mapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习资料\Project\Project-school\review\src" />
+      <recent name="E:\学习资料\Project\Project-school\review\lib" />
       <recent name="E:\学习资料\Project\Project-school\review\src\com\xzq" />
       <recent name="E:\学习资料\Project\Project-school\quiz_demo\lib" />
       <recent name="E:\学习资料\Project\Project-school\quiz_demo\src\com\xzq\collectionsafe" />
-      <recent name="E:\学习资料\Project\Project-school\quiz_demo\src\com\xzq\thread" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xzq.algorithm.search" />
@@ -100,13 +153,13 @@
       <recent name="com.xzq.algorithm.剑指offer面试题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountBits">
-    <configuration name="CountBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode._338_比特位计数.CountBits" />
+  <component name="RunManager" selected="Application.MissingNumber">
+    <configuration name="FindNumInSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._53_在排序数组中找数字.FindNumInSortArray" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode._338_比特位计数.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._53_在排序数组中找数字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode._1095_山脉数组中查找目标值.FindInMountainArray" />
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._63_股票的最大利润.MaxProfit" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode._1095_山脉数组中查找目标值.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._63_股票的最大利润.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetDecimalValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode._1290二进制链表转整数.GetDecimalValue" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._53_II_数组中缺失的数字.MissingNumber" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode._1290二进制链表转整数.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._53_II_数组中缺失的数字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._15_二进制中1的个数.NumberOf1" />
+    <configuration name="PartitionArrayIntoThreeParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode._1013_将数组分为和相等的三个部分.PartitionArrayIntoThreeParts" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.剑指offer._15_二进制中1的个数.*" />
+          <option name="PATTERN" value="com.xzq.leetcode._1013_将数组分为和相等的三个部分.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOuterParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.leetcode._1021删除最外层的括号.RemoveOuterParentheses" />
+    <configuration name="SortInPuke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.剑指offer._61_扑克牌中的顺子.SortInPuke" />
       <module name="review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzq.leetcode._1021删除最外层的括号.*" />
+          <option name="PATTERN" value="com.xzq.剑指offer._61_扑克牌中的顺子.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountBits" />
-        <item itemvalue="Application.NumberOf1" />
-        <item itemvalue="Application.FindInMountainArray" />
-        <item itemvalue="Application.GetDecimalValue" />
-        <item itemvalue="Application.RemoveOuterParentheses" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.FindNumInSortArray" />
+        <item itemvalue="Application.PartitionArrayIntoThreeParts" />
+        <item itemvalue="Application.MaxProfit" />
+        <item itemvalue="Application.SortInPuke" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +315,19 @@
       <workItem from="1588034266849" duration="3680000" />
       <workItem from="1588038594795" duration="20555000" />
       <workItem from="1588120484854" duration="14753000" />
+      <workItem from="1588156930723" duration="2406000" />
+      <workItem from="1588210748557" duration="18973000" />
+      <workItem from="1588297405729" duration="15457000" />
+      <workItem from="1588412908747" duration="2703000" />
+      <workItem from="1588469062984" duration="9321000" />
+      <workItem from="1588588875154" duration="2026000" />
+      <workItem from="1588658089863" duration="6019000" />
+      <workItem from="1588674606227" duration="5483000" />
+      <workItem from="1588727145425" duration="17158000" />
+      <workItem from="1588816297748" duration="13953000" />
+      <workItem from="1588899008764" duration="19949000" />
+      <workItem from="1588993766425" duration="15585000" />
+      <workItem from="1589073986779" duration="8061000" />
     </task>
     <servers />
   </component>
@@ -269,81 +335,92 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585016323975">
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588481150834">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588481150834" />
+    <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588298591803">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588298591803" />
     <state x="392" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1585016323975" />
-    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1588075431822">
+    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1588735124443">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588075431822" />
+    <state x="793" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588735124443" />
     <state x="892" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1586999320438" />
     <state x="195" y="238" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584322042261">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="195" y="238" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1584322042261" />
-    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587891085519">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="2384" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588676431384">
+      <screen x="1920" y="0" width="1600" height="870" />
     </state>
     <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1587891085519" />
+    <state x="2384" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588676431384" />
     <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1585033960640" />
     <state x="371" y="92" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588035844682">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="371" y="92" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588035844682" />
-    <state x="421" y="88" key="FileChooserDialogImpl" timestamp="1588034534598">
+    <state x="421" y="88" key="FileChooserDialogImpl" timestamp="1588817394350">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588034534598" />
+    <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588817394350" />
+    <state x="2446" y="111" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588675707336" />
     <state x="421" y="88" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587525717889" />
-    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1588146028970">
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom" timestamp="1589080773546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028970" />
-    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
-    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1588146028969">
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589080773546" />
+    <state width="1557" height="185" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588684339561" />
+    <state width="1237" height="238" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="146" key="GridCell.Tab.0.center" timestamp="1589080773546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028969" />
-    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
-    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1588146028969">
+    <state width="1237" height="146" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589080773546" />
+    <state width="1557" height="185" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588684339561" />
+    <state width="1237" height="238" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="146" key="GridCell.Tab.0.left" timestamp="1589080773546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028969" />
-    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587019802491" />
-    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1588146028970">
+    <state width="1237" height="146" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589080773546" />
+    <state width="1557" height="185" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588684339561" />
+    <state width="1237" height="238" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="146" key="GridCell.Tab.0.right" timestamp="1589080773546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028970" />
-    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587019802492" />
-    <state width="1237" height="160" key="GridCell.Tab.1.bottom" timestamp="1588146028971">
+    <state width="1237" height="146" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589080773546" />
+    <state width="1557" height="185" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588684339561" />
+    <state width="1237" height="238" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="233" key="GridCell.Tab.1.bottom" timestamp="1589077752454">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028971" />
-    <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
-    <state width="1237" height="160" key="GridCell.Tab.1.center" timestamp="1588146028970">
+    <state width="1237" height="233" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589077752454" />
+    <state width="1237" height="238" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="233" key="GridCell.Tab.1.center" timestamp="1589077752454">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028970" />
-    <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
-    <state width="1237" height="160" key="GridCell.Tab.1.left" timestamp="1588146028970">
+    <state width="1237" height="233" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589077752454" />
+    <state width="1237" height="238" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="233" key="GridCell.Tab.1.left" timestamp="1589077752454">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028970" />
-    <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1586926405667" />
-    <state width="1237" height="160" key="GridCell.Tab.1.right" timestamp="1588146028971">
+    <state width="1237" height="233" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589077752454" />
+    <state width="1237" height="238" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
+    <state width="1237" height="233" key="GridCell.Tab.1.right" timestamp="1589077752454">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588146028971" />
-    <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1586926405668" />
+    <state width="1237" height="233" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589077752454" />
+    <state width="1237" height="238" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1588860230464" />
     <state x="573" y="78" key="NewModule_or_Project.wizard" timestamp="1585719288684">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="573" y="78" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1585719288684" />
-    <state x="166" y="0" key="SettingsEditor" timestamp="1588035555975">
+    <state x="166" y="0" key="SettingsEditor" timestamp="1588481135352">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="166" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588035555975" />
+    <state x="166" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588481135352" />
     <state x="166" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1587000490147" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1586344757701">
       <screen x="0" y="0" width="1280" height="689" />
@@ -353,28 +430,134 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="119" y="135" width="766" height="418" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1582678515753" />
-    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1588120509913">
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1589074006953">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588120509913" />
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589074006953" />
+    <state x="2325" y="213" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588727143262" />
     <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587086232954" />
     <state x="313" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588128640039">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="313" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588128640039" />
-    <state x="28" y="41" key="new project wizard" timestamp="1586778192389">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="1955" y="52" key="new project wizard" timestamp="1588675387637">
+      <screen x="1920" y="0" width="1600" height="870" />
     </state>
+    <state x="1955" y="52" key="new project wizard/0.0.1280.689/1920.0.1600.870@1920.0.1600.870" timestamp="1588675387637" />
     <state x="28" y="41" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586778192389" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1588054122953">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="297" y="153" key="run.anything.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588054122953" />
     <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1586055286164" />
-    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1588140040024">
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1589075005709">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1588140040024" />
-    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586996807748" />
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1600.870@0.0.1280.689" timestamp="1589075005709" />
+    <state x="546" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1588855686221" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_面试题_17_01/不用加号的加法/AddWithoutSub.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_443_压缩字符串/StringCompression.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/剑指offer/_62_圆圈中剩下的数字/LastRemaining.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_125_验证回文串/ValidPalindrome.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_125_验证回文串/ValidPalindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_125_验证回文串/ValidPalindrome.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_1013_将数组分为和相等的三个部分/PartitionArrayIntoThreeParts.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_1013_将数组分为和相等的三个部分/PartitionArrayIntoThreeParts.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_1013_将数组分为和相等的三个部分/PartitionArrayIntoThreeParts.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_1013_将数组分为和相等的三个部分/PartitionArrayIntoThreeParts.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/xzq/leetcode/_125_验证回文串/ValidPalindrome.java</url>
+          <line>9</line>
+          <properties class="com.xzq.leetcode._125_验证回文串.ValidPalindrome" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
